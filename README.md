@@ -8,6 +8,10 @@
 
 - [그림으로 공부하는 IT 인프라 구조 - 개정판](https://search.shopping.naver.com/search/all?query=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20IT%20%EC%9D%B8%ED%94%84%EB%9D%BC&frm=NVSHATC&prevQuery=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94)
 
+- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
+
+- [처음 배우는 스프링 부트2](https://book.naver.com/bookdb/book_detail.nhn?bid=14031681)
+
 - [예제로 배우는 스프링 입문](https://www.inflearn.com/course/spring_revised_edition)
 
 - [스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
