@@ -17,3 +17,5 @@
 - [HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
 - [스프링 MVC 1편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1#)
+
+- [Junit in Action](https://book.naver.com/bookdb/book_detail.nhn?bid=6673461)
