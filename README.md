@@ -26,4 +26,8 @@
 
 - [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
 
+- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
+
 - [Junit in Action](https://book.naver.com/bookdb/book_detail.nhn?bid=6673461)
+
+- [초보를 위한 도커 안내서](https://www.inflearn.com/course/%EB%8F%84%EC%BB%A4-%EC%9E%85%EB%AC%B8/dashboard)
