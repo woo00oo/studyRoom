@@ -16,6 +16,8 @@
 
 - [더 자바, Java 8](https://www.inflearn.com/course/the-java-java8)
 
+- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
+
 - [그림으로 공부하는 IT 인프라 구조 - 개정판](https://search.shopping.naver.com/search/all?query=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20IT%20%EC%9D%B8%ED%94%84%EB%9D%BC&frm=NVSHATC&prevQuery=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94)
 
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)
@@ -43,8 +45,6 @@
 - [실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84)
 
 - [실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84)
-
-- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
 
 - [Junit in Action](https://book.naver.com/bookdb/book_detail.nhn?bid=6673461)
 
