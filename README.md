@@ -20,6 +20,10 @@
 
 - [더 자바, Java 8](https://www.inflearn.com/course/the-java-java8)
 
+- [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
+
+- [더 자바, 애플리케이션을 테스트하는 다양한 방법](https://www.inflearn.com/course/the-java-application-test)
+
 - [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
 
 - [그림으로 공부하는 IT 인프라 구조 - 개정판](https://search.shopping.naver.com/search/all?query=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20IT%20%EC%9D%B8%ED%94%84%EB%9D%BC&frm=NVSHATC&prevQuery=%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94)
