@@ -16,7 +16,7 @@
 
 - [자바의 정석](https://search.shopping.naver.com/search/all?query=%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D&frm=NVSHATC&prevQuery=%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
 
-- 백기선님 자바 스터디
+- [백기선님 자바 스터디](https://github.com/whiteship/live-study)
 
 - [더 자바, Java 8](https://www.inflearn.com/course/the-java-java8)
 
