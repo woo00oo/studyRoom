@@ -3,7 +3,7 @@
 쉽게 이야기해서 지금까지 학슴한 기능에 @Aspect를 Advisor로 변환해서 저장하는 기능도 한다.
 그래서 이름 앞에 AnnotationAware(어노테이션을 인식하는)가 붙어 있는 것이다.
 
-![]()
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3aba41fc-37a3-4fd7-9024-ac2699245e8f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-12-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.05.51.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211226%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211226T141921Z&X-Amz-Expires=86400&X-Amz-Signature=51e4805299819ae51dbbfac7849d231e847eed74e517bc3f11f1d59d4cc9216f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202021-12-26%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE%252011.05.51.png%22&x-id=GetObject)
 
 #### 자동 프록시 생성기는 2가지 일을 한다.
 
@@ -13,7 +13,7 @@
 
 ### 1. @Aspect를 어드바이저로 변환해서 저장하는 과정
 
-![]()
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9b4d1f0-72ab-4bbc-9f78-3cd2b90efda3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-12-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.06.59.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211226%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211226T141944Z&X-Amz-Expires=86400&X-Amz-Signature=69216886d27dbd8d7ab1aef5b17279a834a2793f73274620114af53eac9c6acd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202021-12-26%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE%252011.06.59.png%22&x-id=GetObject)
 
 #### @Aspect를 어드바이저로 변환해서 저장하는 과정을 알아보자
 
@@ -33,7 +33,7 @@ BeanFactoryAspectJAdvisorBuilder 클래스이다. @Aspect의 정보를 기반으
 
 ### 2. 어드바이저를 기반으로 프록시 생성
 
-![]()
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eb36a8f3-1fa6-4544-ae52-056e84b11551/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-12-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.12.53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211226%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211226T141954Z&X-Amz-Expires=86400&X-Amz-Signature=d7d8bcd932faee2b84fe459951a86e5dbb50ce146dfad81aed0f78c8022372ed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202021-12-26%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE%252011.12.53.png%22&x-id=GetObject)
 
 자동 프록시 생성기의 작동 과정
 
